@@ -7,7 +7,9 @@ Your goal is to write a CSS code that will apply the following styles:
 - paragraph's text color should correspond to the text (the first one is green, the second one is blue, the last one is pink, etc.)
 - the "Red centered" paragraph - background is white, text color is red, the text is centered
 - the "hidden" paragraph - should not be visible
+
 The correct result should look like this: example.png
+
 To complete the task you should:
 - Write the code in the "CSS" field (on the right)
 - Check the result by clicking on the "Run" button (above)
