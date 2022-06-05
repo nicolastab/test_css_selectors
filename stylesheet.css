@@ -1,0 +1,37 @@
+/*Sets the background color to gray and a 5 pixels padding*/
+article {
+  background-color: #808080;
+  padding: 5px;
+}
+/*Set a 5 pixels margin for the text in the p tags*/
+p {
+  margin: 5px;
+  color: green;
+}
+
+p:nth-child(2) {
+  color: blue;
+}
+/*Creates a white box with red centered text*/
+div {
+    background-color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+div > p {
+  color: red;
+}
+/*Hides the "Hidden" text*/
+.hidden {
+  display: none;
+}
+p:nth-child(4) {
+  color: yellow;
+}
+p:nth-child(9) {
+  color: purple;
+}
+p:nth-child(10) {
+  color: pink;
+}
